@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+    background-color: #eef2ff;
+}
+nav img{
+    width: 25px;
+    border:1px solid #3730a3;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
+
+.haz {
+    background-color: #3730a3;
+}
+
+.lakas {
+    background-color: #3730a3;
+}
+
+.nyaralo {
+    background-color: #3730a3;
+}
+
+h1 {
+    background-image: url('../public/background.png');
+    height: 40vw;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 3px solid blue;
+}
+
